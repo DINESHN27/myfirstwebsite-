@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html >
-	<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/DINESHN27/myfirstwebsite-/main/new2.css">
+	
 <START>
 <BODY>
 	
 <header>
-	<nav>
-		<ul>
+	<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/DINESHN27/myfirstwebsite-/main/new2.css">
+	<nav>	<ul>
 			<li>
 				<a href="#">HOME</a>
 			</li>
