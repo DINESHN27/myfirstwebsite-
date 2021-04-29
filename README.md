@@ -2,10 +2,9 @@
 <html >
 	
 <START>
-<BODY>
+<BODY><head><link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/DINESHN27/myfirstwebsite-/main/new2.css"></head>
 	
 <header>
-	<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/DINESHN27/myfirstwebsite-/main/new2.css">
 	<nav>	<ul>
 			<li>
 				<a href="#">HOME</a>
