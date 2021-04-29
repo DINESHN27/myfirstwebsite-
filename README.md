@@ -2,7 +2,7 @@
 <html >
 <START>
 <BODY>
-	<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/DINESHN27/myfirstwebsite-/main/new2.css>
+	<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/DINESHN27/myfirstwebsite-/main/new2.css">
 <header>
 	<nav>
 		<ul>
