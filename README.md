@@ -25,56 +25,7 @@
   <img src="pic1.jpg" alt="snow" style="width:100%;">
   <div class="top-left"><p>     What  is happiness let me tell you first I know answer from you what do you think about happiness?..If you tell " my happiness is to go movie,to have a beautiful girlfriend,have a lot of money , have a very big house or etc....." If you tell these typof desires make me help , then I will tell  you are misunderstood happiness.If you ask me what is happiness..I may be tell happiness is various from each other . that is our perspective.  There is no limit also. Each person have a diffrent diffrent desires.
     I will tell some tips that makes you very clear I think......<br><br> 	
-    1.You should do what you think at the moment.dont think this is wrong but its work<br><br>hr{
-	border:2px color:lightblue;
-	width:50%;
-	color: lightblue;
-}
-ul{
-	list-style:none ;
-}
-
-
-header{
-	background-color:lightblue;
-	padding: 2px;
-}
-li{
-	display: inline;
-	margin: 100px;
-}
-li a:hover{
-
-	color: red;
-	
-}
-li a {
-	display: inline;
-	color:white;
-	text-decoration:none;
-	padding: 10px;
-}
-img{
-	width:100%;
-	margin-top: 1%;
-	opacity: 35%;
-}
-p{
-	
-	background-image: "pic1.jpg";
-	margin-left:45%;
-	margin-top: 10%;
-
-}
-
-.top-left {
-	display: inline;	
-  position: absolute;
-  top: 150px;
-  right: 500px;
-
-}
-
+    1.You should do what youat the moment.dont think this is wrong but its work	
     2.You should do diffrent diffrent jobs which do you interested?<br><br>
     3.Always follow your passion and make it job also<br><br>
     4.Always think'I am happy I am happy'it makes some sense<br><br>
