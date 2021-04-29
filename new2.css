@@ -1,0 +1,50 @@
+hr{
+	border:2px color:lightblue;
+	width:50%;
+	color: lightblue;
+}
+ul{
+	list-style:none ;
+}
+
+
+header{
+	background-color:lightblue;
+	padding: 2px;
+}
+li{
+	display: inline;
+	margin: 100px;
+}
+li a:hover{
+
+	color: red;
+	
+}
+li a {
+	display: inline;
+	color:white;
+	text-decoration:none;
+	padding: 10px;
+}
+img{
+	width:100%;
+	margin-top: 1%;
+	opacity: 35%;
+}
+p{
+	
+	background-image: "pic1.jpg";
+	margin-left:45%;
+	margin-top: 10%;
+
+}
+
+.top-left {
+	display: inline;	
+  position: absolute;
+  top: 150px;
+  right: 500px;
+
+}
+
